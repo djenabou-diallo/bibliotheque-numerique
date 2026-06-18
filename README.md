@@ -103,4 +103,4 @@ npx cypress open
 
 ## Auteure
 
-**Djenabou Diallo** — Collège André-Grasset
+**Djenabou Diallo** 
