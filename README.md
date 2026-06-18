@@ -44,7 +44,7 @@ En ligne : `https://djenabou-diallo-evaluation-finaleh26.onrender.com/api-docs`
 
 ### 1. Cloner le projet
 ```bash
-git clone https://github.com/djenabou555555/bibliotheque-numerique
+git clone https://github.com/djenabou-diallo/bibliotheque-numerique
 ```
 
 ### 2. Configurer les variables d'environnement
